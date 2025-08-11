@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Small custom styles */
+.header-shadow { box-shadow: 0 6px 18px rgba(15, 23, 42, 0.06); }
+.card-img { height: 220px; object-fit: cover; }
+.search-pill { background: linear-gradient(90deg, #ffffff, #f8fafc); border: 1px solid rgba(99,102,241,0.06); }
